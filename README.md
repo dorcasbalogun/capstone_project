@@ -1,4 +1,4 @@
-#Plant Seedlings Classification Using Convolutional Neural Networks
+## Plant Seedlings Classification Using Convolutional Neural Networks
 This project is based on the use of convolutional neural networks in conjunction with techniques such as image
 augmentation and transfer learning to differentiate between images of weeds and crop seedlings.
 
