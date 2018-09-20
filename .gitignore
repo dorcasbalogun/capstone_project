@@ -1,6 +1,4 @@
 plant/
 saved_models/
-.ipynb_checkpoints/benchmark-checkpoint.ipynb
-.ipynb_checkpoints/plant_seedling_notebook-checkpoint.ipynb
-.ipynb_checkpoints/split_dataset-checkpoint.ipynb
+.ipynb_checkpoints
 .idea/
