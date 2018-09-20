@@ -1,4 +1,4 @@
 plant/
 saved_models/
-.ipynb_checkpoints
+scripts/.ipynb_checkpoints
 .idea/
